@@ -1,0 +1,81 @@
+body
+{
+    position: absolute;
+    background-image: url("tlo.jpg");   
+    background-repeat: no-repeat;
+}
+Input
+{
+    background-color: #FFCC33;   
+}
+#rejestracja
+{
+  margin-left: 900px;
+  margin-top: 200px; 
+  position: absolute;
+}
+
+#logowanie
+{
+  margin-left: 900px;
+  margin-top: 300px;
+  position: absolute;
+
+}
+
+#plik
+{
+  margin-left: 500px;
+  margin-top: 300px;
+  position: absolute;
+}
+#plik1
+{
+  margin-left: 600px;
+  margin-top: 300px;
+  position: absolute;
+}
+#plik2
+{
+  margin-left: 700px;
+  margin-top: 300px;
+  position: absolute;
+}
+#plik3
+{
+  margin-left: 800px;
+  margin-top: 300px;
+  position: absolute;
+}
+#plik4
+{
+  margin-left: 900px;
+  margin-top: 300px;
+  position: absolute;
+}
+
+#witamy
+{
+    margin-top: 10px;
+    margin-left: 570px;
+}
+
+#blad
+{
+  width: 300px;
+  margin-left: 850px;
+  margin-top: 500px;
+  position: absolute;
+    font-size: 22px;
+}
+
+a:visited
+{
+    color: #FF6600;
+}
+
+/* Po najechaniu link */
+a:hover
+{
+    color: red;
+}
